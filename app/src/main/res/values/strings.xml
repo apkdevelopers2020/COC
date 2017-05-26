@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">New Clash Bases</string>
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_photos">Import Your Base</string>
+    <string name="nav_movies">View Video Tutorial</string>
+    <string name="nav_settings">Clash Youtube</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Import Your Base</item>
+        <item>Video Tutorial</item>
+        <item>Clash Youtube</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+
+    <string name="fbappid">1830772947184199</string>
+
+
+    <string name="contentnotfound">Page not found</string>
+    <string name="serverexception">Server encountered a problem. We are working on it.</string>
+    <string name="unauthorized">Login to use this feature.</string>
+    <string name="badrequest">Bad Request</string>
+    <string name="connectionerror">Connection error occurred.</string>
+    <string name="title_activity_fulll_screen_image_view">FulllScreenImageView</string>
+    <string name="townhallgridtitle">"Town Hall "</string>
+    <string name="select_image">Import Your Base</string>
+    <item name="glide_tag" type="id" />
+
+    <string name="alert_title">Attention!</string>
+    <string name="alert_message">Unable to load data. \nCheck your connection!</string>
+    <string name="alert_positive">Close</string>
+    <string name="interstitial_ad_unit_idhome">ca-app-pub-9606502690593446/4923946011</string>
+
+</resources>

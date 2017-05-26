@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.6.0_9c189364ea90f5c620c50af9fb7b0781d2b551af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.0_edaa903f5e730011f438aae1b33cb7f69f373c55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_962621591096ad0202358befac4f343e6d7a7ecf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_b98d12ae6e823a3e7eb1c130cfe619a41dd09a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.2.0_9c33ca62e7f0298e4368ebfdc922b04feffceb25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/okio-1.6.0_dab59d8e2eae039d77168af0b097281c52f19816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="204f607419af8247cc1b2a61f50663c65f841c12">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-beta-1.2.5_b3352957895915de943fb90e9694e7080a64bc3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/gson-2.4_9e42ceeea9709e79b5948cbfe73d68ac2148e75b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-multidex-1.0.1_6a7cf1323c6663fea21f010dbefa6a08e157c942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_1a2b9ba3e2a379015c5abcc6f266b35977dc83ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_837540aa4a1643007caeaf01f854434099ad048c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0_c9d33b16c9d6ff54d170e86f80b3aeeaac9bc817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_46bd65da5149cac212aacb34e1a4d20e4ff708f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_e29b20c34a542712155529ad88358cbe0ffafa7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-10.2.0_d80df1d76b086e5dc20455294ccc6ca633e96c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.prof.youtubeparser/youtubeparser/1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="be7164fb27d849a8fe93c99ef52eec206efb65cb">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.prof.youtubeparser-youtubeparser-1.1_4c965d6e2b001fbabbf7827016650313a2d6a979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="461929440e66685425a298693507f6fb27b0a872">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-core-2.3.17_b2a70c0b651c68512917fc6f52efd7e46c4541d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_4127ec5830f2fc7abf6078e5ec225a345bc08bf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.13/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7045152f3bd1870740b9bcb1cddff495e189774e">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-answers-1.3.13_12633b79320e61c19b16a0d7d5f820301f2c1d16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.0_7fda39527605611e772bc40090053de3f7a548fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_c6885c9325c46f52c3f4ed29fcfb7c9318d17842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.2.0_51946abfbf5a57ba1fd45d57a18d197aa80f9075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_852bb7de6cb6251d69a67e346ad1a790f69e8b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.2.0_c666d0900d83a83b0baa8a0195aee30989b6c482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-2.6.8_ab392a017fc59c6f6ada856459e386b7a4118a58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.0_135b7aaf3f98bbb69812d8e34416b4785a267e9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.2.0_67c3872f341e2fd98dbb36c37f4420ffd1b8d556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_c3271eb1e3f3fdbd7629dfa704f9dc3f7240da74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/glide-3.7.0_6a68012283595ad23adef5c2d0b4e0dd373f5853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.0_f503e0ac2520651c49cf3c6f8b71ef1db0ad9c39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="005d20a198159b87f65812fc5c51b2d84c5eba0a">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/io.fabric.sdk.android-fabric-1.3.17_5caefc792881393e2c11be6fdd51dc18814f133c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.1_5ca28cd42c5d22b5a7d509421fcfcebc41430fe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_6274aee14e481fdeb0109214e8941259957f8e28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.2.0_ab428bb7ab7b1fd57a5281bab72b4f81d79c2ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_6951eff6e35818b522400b9c1558bc08bdd58b4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_2feb19f32e033fe2ba1d18f3bc1d836d6cd6d180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.2.0_0561e3370cb1a66c6e4cf3ae487767d57bbbe0be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="41a4edf3c43fdbce6eba27da50b17ff9933987f1">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.pnikosis-materialish-progress-1.7_fa466f8820e1401f170699642f016f0670475454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/home/phoenix/Desktop/COC APP/NavigationDrawer/NavigationDrawer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.2.0_2fea592031e480e9aac8f707f02af75c2ce495b5.jar" />
+    </item>
+
+</items>
